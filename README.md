@@ -1,3 +1,4 @@
+
 # PivotTable Assignments Overview:
 Total sales for Shining Seas in California for all months: Aggregate the sales data for this specific product and state.
 Total sales for Blackbear Berry in all states: Summarize the sales for this product across all states.
@@ -39,3 +40,6 @@ Temporal Aspect: The data spans multiple months from January to September.
 Product Variety: There are several products being tracked.
 Geographical Distribution: Sales data is provided for three states: California, Oregon, and Washington.
 Sales Figures: The sales amounts vary widely, reflecting different levels of sales activity across products, months, and states.
+
+
+# You can find the excel sheet "PIVOT_task..xls" and the solution file "solution.xls"
